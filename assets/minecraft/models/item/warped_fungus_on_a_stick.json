@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+  "overrides":[
+    {"predicate": {"custom_model_data":512401},"model": "magicas:item/magica_blade/normal"},
+    {"predicate": {"custom_model_data":512402},"model": "magicas:item/magica_blade/kazakiri"},
+    {"predicate": {"custom_model_data":512403},"model": "magicas:item/muramasa/normal"},
+    {"predicate": {"custom_model_data":512404},"model": "magicas:item/muramasa/blade"},
+    {"predicate": {"custom_model_data":512405},"model": "magicas:item/muramasa/wield"}
+
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/knowledge_book"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":65536}, "model": "tk_br:item/battleballoon"},
+
+    {"predicate": {"custom_model_data":5124001}, "model": "minecraft:block/end_portal_frame"}
+  ]
+}

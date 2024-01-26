@@ -1,0 +1,36 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/animated_java_empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:item/test/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:item/test/bone3"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"test": {
+				"used_ids": [
+					2,
+					3
+				]
+			}
+		}
+	}
+}

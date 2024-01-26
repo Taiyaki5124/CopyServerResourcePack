@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/emerald"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":222001}, "model": "runes:item/attack"},
+    {"predicate": {"custom_model_data":222002}, "model": "runes:item/protect"},
+    {"predicate": {"custom_model_data":222003}, "model": "runes:item/defence"},
+    {"predicate": {"custom_model_data":222004}, "model": "runes:item/speed"},
+    {"predicate": {"custom_model_data":222005}, "model": "runes:item/armor"},
+    {"predicate": {"custom_model_data":222006}, "model": "runes:item/mana"},
+    {"predicate": {"custom_model_data":222007}, "model": "runes:item/barrage"},
+    {"predicate": {"custom_model_data":222008}, "model": "runes:item/heavy"},
+    {"predicate": {"custom_model_data":222009}, "model": "runes:item/violent"}
+  ]
+}

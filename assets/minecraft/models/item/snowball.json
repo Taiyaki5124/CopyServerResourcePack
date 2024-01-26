@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/snowball"
+  },
+  "overrides":[
+    {"predicate": {"custom_model_data": 220003},"model": "ps_items:item/granades/wave"},
+    {"predicate": {"custom_model_data": 220004},"model": "ps_items:item/granades/smoke"},
+    {"predicate": {"custom_model_data": 220005},"model": "ps_items:item/granades/antimine"},
+    {"predicate": {"custom_model_data": 220006},"model": "ps_items:item/granades/poison"},
+    {"predicate": {"custom_model_data": 220007},"model": "ps_items:item/granades/pulse"},
+    {"predicate": {"custom_model_data":5124001},"model": "tk_gun:item/misc/granade"}
+  ]
+}

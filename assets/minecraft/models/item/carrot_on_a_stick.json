@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+
+  "overrides": [
+    {  "predicate": {"custom_model_data":23456}, "model": "cc_rpgs:item/battleaxe"},
+    {  "predicate": {"custom_model_data":23457}, "model": "cc_rpgs:item/knife"},
+    {  "predicate": {"custom_model_data":23458}, "model": "cc_rpgs:item/hyoga"},
+    {  "predicate": {"custom_model_data":23459}, "model": "cc_rpgs:item/doryu"},
+    {  "predicate": {"custom_model_data":23460}, "model": "cc_rpgs:item/zanka_blade"},
+    {  "predicate": {"custom_model_data":23461}, "model": "cc_rpgs:item/zanka_scabbard_blade"},
+    {  "predicate": {"custom_model_data":23462}, "model": "cc_rpgs:item/zanka_scabbard"},
+    {  "predicate": {"custom_model_data":23463}, "model": "cc_rpgs:item/zanka_fireblade"},
+    
+    {"predicate": {"custom_model_data":221001}, "model": "minecraft:item/blaze_powder"},
+    {"predicate": {"custom_model_data":221002}, "model": "minecraft:block/packed_ice"},
+    {"predicate": {"custom_model_data":221003}, "model": "minecraft:block/yellow_glazed_terracotta"},
+    {"predicate": {"custom_model_data":221004}, "model": "minecraft:block/purple_glazed_terracotta"},
+    {"predicate": {"custom_model_data":221005}, "model": "minecraft:block/pink_glazed_terracotta"},
+    {"predicate": {"custom_model_data":221006}, "model": "minecraft:block/end_rod"},
+    {"predicate": {"custom_model_data":221007}, "model": "minecraft:item/gunpowder"},
+    {"predicate": {"custom_model_data":221008}, "model": "minecraft:block/azalea_leaves"},
+    {"predicate": {"custom_model_data":221009}, "model": "minecraft:block/gray_stained_glass"},
+    {"predicate": {"custom_model_data":221010}, "model": "minecraft:item/ender_pearl"},
+
+    {"predicate":{"custom_model_data":512400},"model":"minecraft:item/iron_bars"},
+    {"predicate":{"custom_model_data":512401},"model":"magicas:item/magics/flamma"},
+    {"predicate":{"custom_model_data":512402},"model":"magicas:item/magics/explamma"},
+    {"predicate":{"custom_model_data":512403},"model":"magicas:item/magics/loftsteinn"},
+    {"predicate":{"custom_model_data":512404},"model":"magicas:item/magics/loftsteina_regn"}
+  ]
+}
