@@ -1,0 +1,25 @@
+{
+    "version": "0.4.6",
+    "projects": {
+        "75ca77f8-9394-a74a-fb88-c7b2d5506aac": {
+            "project_name": "zanka_rust",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\zanka_fireblade\\group.json",
+                "assets\\animated_java\\models\\item\\zanka_fireblade\\group2.json",
+                "assets\\animated_java\\models\\item\\zanka_fireblade\\group3.json",
+                "assets\\animated_java\\models\\item\\zanka_fireblade\\bone3.json",
+                "assets\\animated_java\\models\\item\\zanka_fireblade\\bone4.json",
+                "assets\\animated_java\\textures\\item\\zanka_fireblade\\zanka_lucas.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "d855ef9f-615f-7066-88c0-f6c48285297b": {
+            "project_name": "testcube",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\testcube\\bone.json",
+                "assets\\animated_java\\textures\\item\\testcube\\testcube_t.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}
