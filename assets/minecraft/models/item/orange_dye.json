@@ -1,0 +1,96 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/orange_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/animated_java_empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:item/sabotens/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:item/sabotens/leg_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:item/sabotens/leg_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:item/sabotens/arm_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:item/sabotens/arm_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:item/zanka_fireblade/group"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:item/zanka_fireblade/group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:item/zanka_fireblade/group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "animated_java:item/zanka_fireblade/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "animated_java:item/zanka_fireblade/bone4"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"sabotens": {
+				"used_ids": [
+					2,
+					3,
+					4,
+					5,
+					6
+				]
+			},
+			"zanka_fireblade": {
+				"used_ids": [
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			}
+		}
+	}
+}
