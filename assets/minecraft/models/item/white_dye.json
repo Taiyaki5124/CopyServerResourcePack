@@ -21,6 +21,42 @@
 				"custom_model_data": 3
 			},
 			"model": "animated_java:item/test/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:item/zanka_fireblade/group"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:item/zanka_fireblade/group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:item/zanka_fireblade/group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:item/zanka_fireblade/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:item/zanka_fireblade/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:item/testcube/bone"
 		}
 	],
 	"animated_java": {
@@ -29,6 +65,20 @@
 				"used_ids": [
 					2,
 					3
+				]
+			},
+			"zanka_fireblade": {
+				"used_ids": [
+					4,
+					5,
+					6,
+					7,
+					8
+				]
+			},
+			"testcube": {
+				"used_ids": [
+					9
 				]
 			}
 		}
