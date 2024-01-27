@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"4": "animated_java:item/zanka_fireblade/zanka_lucas"
+	},
+	"elements": [
+		{
+			"from": [
+				7.593220338983051,
+				31.186440677966104,
+				9.627118644067796
+			],
+			"to": [
+				8,
+				32,
+				9.627118644067796
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						4,
+						2,
+						8
+					],
+					"texture": "#4"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						0,
+						4
+					],
+					"texture": "#4"
+				},
+				"south": {
+					"uv": [
+						4,
+						0,
+						6,
+						4
+					],
+					"texture": "#4"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						0,
+						4
+					],
+					"texture": "#4"
+				},
+				"up": {
+					"uv": [
+						2,
+						0,
+						0,
+						0
+					],
+					"texture": "#4"
+				},
+				"down": {
+					"uv": [
+						2,
+						0,
+						0,
+						0
+					],
+					"texture": "#4"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
