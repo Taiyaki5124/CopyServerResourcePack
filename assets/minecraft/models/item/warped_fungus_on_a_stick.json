@@ -8,7 +8,9 @@
     {"predicate": {"custom_model_data":512402},"model": "magicas:item/magica_blade/kazakiri"},
     {"predicate": {"custom_model_data":512403},"model": "magicas:item/muramasa/normal"},
     {"predicate": {"custom_model_data":512404},"model": "magicas:item/muramasa/blade"},
-    {"predicate": {"custom_model_data":512405},"model": "magicas:item/muramasa/wield"}
-
+    {"predicate": {"custom_model_data":512405},"model": "magicas:item/muramasa/wield"},
+    
+    {"predicate": {"custom_model_data":2132001}, "model": "zun_resopa:item/magic_book"},
+    {"predicate": {"custom_model_data":2132004}, "model": "zun_resopa:item/shark_sword"}
   ]
 }
