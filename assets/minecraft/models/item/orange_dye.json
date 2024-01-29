@@ -69,6 +69,18 @@
 				"custom_model_data": 11
 			},
 			"model": "animated_java:item/zanka_fireblade/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "animated_java:item/zanka_blade.ver1/group"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "animated_java:item/zanka_blade/group"
 		}
 	],
 	"animated_java": {
@@ -89,6 +101,16 @@
 					9,
 					10,
 					11
+				]
+			},
+			"zanka_blade.ver1": {
+				"used_ids": [
+					12
+				]
+			},
+			"zanka_blade": {
+				"used_ids": [
+					13
 				]
 			}
 		}
