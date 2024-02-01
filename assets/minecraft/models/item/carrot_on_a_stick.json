@@ -30,8 +30,8 @@
     {"predicate":{"custom_model_data":512402},"model":"magicas:item/magics/explamma"},
     {"predicate":{"custom_model_data":512403},"model":"magicas:item/magics/loftsteinn"},
     {"predicate":{"custom_model_data":512404},"model":"magicas:item/magics/loftsteina_regn"},
-    {"predicate": {"custom_model_data":512403},"model": "magicas:item/muramasa/normal"},
-    {"predicate": {"custom_model_data":512404},"model": "magicas:item/muramasa/blade"},
-    {"predicate": {"custom_model_data":512405},"model": "magicas:item/muramasa/wield"}
+    {"predicate": {"custom_model_data":512503},"model": "magicas:item/muramasa/normal"},
+    {"predicate": {"custom_model_data":512504},"model": "magicas:item/muramasa/blade"},
+    {"predicate": {"custom_model_data":512505},"model": "magicas:item/muramasa/wield"}
   ]
 }
