@@ -81,6 +81,30 @@
 				"custom_model_data": 13
 			},
 			"model": "animated_java:item/zanka_blade/group"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "cc_rpgs:item/cooking_pot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "cc_rpgs:item/cooking_log"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "cc_rpgs:item/cooking_firewood"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "cc_rpgs:item/woodchair"
 		}
 	],
 	"animated_java": {
