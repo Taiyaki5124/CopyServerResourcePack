@@ -13,6 +13,7 @@
     {  "predicate": {"custom_model_data":23461}, "model": "cc_rpgs:item/zanka_scabbard_blade"},
     {  "predicate": {"custom_model_data":23462}, "model": "cc_rpgs:item/zanka_scabbard"},
     {  "predicate": {"custom_model_data":23463}, "model": "cc_rpgs:item/zanka_fireblade"},
+    {  "predicate": {"custom_model_data":23464}, "model": "cc_rpgs:item/crevasse"},
     
     {"predicate": {"custom_model_data":221001}, "model": "minecraft:item/blaze_powder"},
     {"predicate": {"custom_model_data":221002}, "model": "minecraft:block/packed_ice"},
