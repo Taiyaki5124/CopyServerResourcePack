@@ -4,7 +4,9 @@
     "layer0": "minecraft:item/warped_fungus_on_a_stick"
   },
   "overrides":[
-    {"predicate": {"custom_model_data":23456},"model": "cc_rpgs:item/crevasse"},
+    {"predicate": {"custom_model_data":23456},"model": "cc_rpgs:item/nullsword"},
+    {"predicate": {"custom_model_data":23457},"model": "cc_rpgs:item/crevasse"},
+
     {"predicate": {"custom_model_data":512401},"model": "magicas:item/magica_blade/normal"},
     {"predicate": {"custom_model_data":512402},"model": "magicas:item/magica_blade/kazakiri"},
     
