@@ -86,53 +86,29 @@
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "cc_rpgs:item/cooking_pot"
+			"model": "animated_java:item/akakinoko/right_eye"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "cc_rpgs:item/cooking_log"
+			"model": "animated_java:item/akakinoko/left_eye"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "cc_rpgs:item/cooking_firewood"
+			"model": "animated_java:item/akakinoko/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "cc_rpgs:item/woodchair"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 18
-			},
-			"model": "animated_java:item/akakinoko/right_eye"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 19
-			},
-			"model": "animated_java:item/akakinoko/left_eye"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 20
-			},
-			"model": "animated_java:item/akakinoko/head"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 21
-			},
 			"model": "animated_java:item/akakinoko/right_leg"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 22
+				"custom_model_data": 18
 			},
 			"model": "animated_java:item/akakinoko/left_leg"
 		}
