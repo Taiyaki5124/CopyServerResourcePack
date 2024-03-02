@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "animated_java:item/jumping_magicbook/jumping_magicbook"
+	},
+	"elements": [
+		{
+			"from": [
+				7.975,
+				8.075,
+				3.75
+			],
+			"to": [
+				14.25,
+				8.075,
+				12.25
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					11,
+					2,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						1.5,
+						0
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						2.25,
+						0
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						1.5,
+						0
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						2.25,
+						0
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						4.5,
+						2.25,
+						3,
+						0
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						4.5,
+						2.25,
+						3,
+						4.5
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
