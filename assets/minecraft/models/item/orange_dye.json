@@ -105,6 +105,36 @@
 				"custom_model_data": 17
 			},
 			"model": "cc_rpgs:item/woodchair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "animated_java:item/akakinoko/right_eye"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "animated_java:item/akakinoko/left_eye"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "animated_java:item/akakinoko/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "animated_java:item/akakinoko/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "animated_java:item/akakinoko/left_leg"
 		}
 	],
 	"animated_java": {
@@ -135,6 +165,15 @@
 			"zanka_blade": {
 				"used_ids": [
 					13
+				]
+			},
+			"akakinoko": {
+				"used_ids": [
+					14,
+					15,
+					16,
+					17,
+					18
 				]
 			}
 		}
