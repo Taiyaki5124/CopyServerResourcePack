@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"3": "animated_java:item/halastjarna/main_inside"
+	},
+	"elements": [
+		{
+			"from": [
+				10.07206,
+				-0.9253900000000002,
+				8
+			],
+			"to": [
+				11.07206,
+				17.07461,
+				8
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					10,
+					1.0750000000000002,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						2,
+						16
+					],
+					"texture": "#3"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#3"
+				},
+				"south": {
+					"uv": [
+						2,
+						0,
+						0,
+						16
+					],
+					"texture": "#3"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#3"
+				},
+				"up": {
+					"uv": [
+						2,
+						0,
+						0,
+						0
+					],
+					"texture": "#3"
+				},
+				"down": {
+					"uv": [
+						2,
+						0,
+						0,
+						0
+					],
+					"texture": "#3"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
