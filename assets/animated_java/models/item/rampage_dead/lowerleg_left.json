@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"4": "animated_java:item/rampage_dead/rampagedead_lowerbodies_t"
+	},
+	"elements": [
+		{
+			"from": [
+				3.2,
+				-16,
+				0.3200000000000003
+			],
+			"to": [
+				15.68,
+				7.04,
+				15.68
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						8.375,
+						0,
+						10,
+						3
+					],
+					"texture": "#4"
+				},
+				"east": {
+					"uv": [
+						0,
+						3,
+						2,
+						6
+					],
+					"texture": "#4"
+				},
+				"south": {
+					"uv": [
+						8.375,
+						3,
+						10,
+						6
+					],
+					"texture": "#4"
+				},
+				"west": {
+					"uv": [
+						2,
+						3,
+						4,
+						6
+					],
+					"texture": "#4"
+				},
+				"up": {
+					"uv": [
+						11.5,
+						8,
+						9.875,
+						6
+					],
+					"texture": "#4"
+				},
+				"down": {
+					"uv": [
+						11.5,
+						8,
+						9.875,
+						10
+					],
+					"texture": "#4"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
