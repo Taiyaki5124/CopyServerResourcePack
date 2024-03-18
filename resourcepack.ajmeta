@@ -1,5 +1,5 @@
 {
-    "version": "0.4.6",
+    "version": "0.4.7",
     "projects": {
         "75ca77f8-9394-a74a-fb88-c7b2d5506aac": {
             "project_name": "zanka_rust",
