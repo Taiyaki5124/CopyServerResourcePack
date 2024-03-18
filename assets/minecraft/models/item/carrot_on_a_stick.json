@@ -32,6 +32,7 @@
     {"predicate":{"custom_model_data":512404},"model":"magicas:item/magics/loftsteina_regn"},
     {"predicate":{"custom_model_data":512405},"model":"magicas:item/magics/ventus"},
     {"predicate":{"custom_model_data":512406},"model":"magicas:item/magics/briss"},
+    {"predicate":{"custom_model_data":512407},"model":"magicas:item/magics/halastjarna"},
 
 
     {"predicate": {"custom_model_data":512503},"model": "magicas:item/muramasa/normal"},
