@@ -10,10 +10,11 @@
     {"predicate": {"custom_model_data":512401},"model": "magicas:item/magica_blade/normal"},
     {"predicate": {"custom_model_data":512402},"model": "magicas:item/magica_blade/kazakiri"},
     
-    
     {"predicate": {"custom_model_data":2132001}, "model": "zun_resopa:item/mana_wall"},
     {"predicate": {"custom_model_data":2132002}, "model": "zun_resopa:item/claymore"},
     {"predicate": {"custom_model_data":2132003}, "model": "zun_resopa:item/mana_boundage"},
-    {"predicate": {"custom_model_data":2132004}, "model": "zun_resopa:item/shark_sword"}
+    {"predicate": {"custom_model_data":2132004}, "model": "zun_resopa:item/shark_sword"},
+    {"predicate": {"custom_model_data":2132005}, "model": "zun_resopa:item/color_scythe"},
+    {"predicate": {"custom_model_data":2132006}, "model": "zun_resopa:item/poison_scissors"}
   ]
 }
