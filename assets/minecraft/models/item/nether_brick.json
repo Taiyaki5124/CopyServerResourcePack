@@ -9,7 +9,7 @@
       {"predicate": {"custom_model_data":512403}, "model": "tk_gun:item/ammo/heavy"},
 
       {"predicate": {"custom_model_data":5124001},"model": "tk_gun:item/reload/revolver"},
-      {"predicate": {"custom_model_data":5124002},"model": "tk_gun:item/reload/m4"},
+      {"predicate": {"custom_model_data":5124002},"model": "tk_gun:item/reload/assaultrifle"},
       {"predicate": {"custom_model_data":5124003},"model": "tk_gun:item/reload/pistol_cc"},
       {"predicate": {"custom_model_data":5124004},"model": "tk_gun:item/reload/smg"},
       {"predicate": {"custom_model_data":5124005},"model": "tk_gun:item/reload/mac11"},

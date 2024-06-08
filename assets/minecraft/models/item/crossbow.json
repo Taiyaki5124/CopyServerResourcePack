@@ -60,7 +60,7 @@
             "model": "item/crossbow_firework"
         },
         {"predicate": {"custom_model_data":5124001},"model": "tk_gun:item/revolver"},
-        {"predicate": {"custom_model_data":5124002},"model": "tk_gun:item/m4"},
+        {"predicate": {"custom_model_data":5124002},"model": "tk_gun:item/assaultrifle"},
         {"predicate": {"custom_model_data":5124003},"model": "tk_gun:item/pistol_cc"},
         {"predicate": {"custom_model_data":5124004},"model": "tk_gun:item/smg"},
         {"predicate": {"custom_model_data":5124005},"model": "tk_gun:item/mac11"},
@@ -74,7 +74,7 @@
         {"predicate": {"custom_model_data":5124013},"model": "tk_gun:item/zun_railgun"},
 
         {"predicate": {"custom_model_data":5125001},"model": "tk_gun:item/ads/revolver"},
-        {"predicate": {"custom_model_data":5125002},"model": "tk_gun:item/ads/m4"},
+        {"predicate": {"custom_model_data":5125002},"model": "tk_gun:item/ads/assaultrifle"},
         {"predicate": {"custom_model_data":5125003},"model": "tk_gun:item/ads/pistol_cc"},
         {"predicate": {"custom_model_data":5125004},"model": "tk_gun:item/ads/smg"},
         {"predicate": {"custom_model_data":5125005},"model": "tk_gun:item/ads/mac11"},
