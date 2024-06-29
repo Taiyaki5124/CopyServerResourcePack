@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"3": "tk_gun:item/assault/assaultrifle_t",
-		"particle": "tk_gun:item/assault/assaultrifle_t"
+		"particle": "tk_gun:item/assault/assultrifle_t"
 	},
 	"elements": [
 		{
@@ -329,16 +329,15 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -8, 0],
-			"translation": [7.5, 10.5, 1]
+			"translation": [12, 10, 1]
 		},
 		"firstperson_lefthand": {
 			"translation": [12, 10, 1]
 		},
 		"ground": {
 			"rotation": [45, 0, 0],
-			"translation": [0, 3, 0],
-			"scale": [0.35, 0.35, 0.35]
+			"translation": [0, 8.25, 0],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"gui": {
 			"rotation": [-90, 135, 90],
