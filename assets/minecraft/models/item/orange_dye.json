@@ -159,11 +159,18 @@
 				"custom_model_data": 26
 			},
 			"model": "animated_java:item/zanka_fireblade/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "animated_java:item/zanka_blade/group"
 		}
 	],
 	"animated_java": {
 		"model_null": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
 		"sabotens": [17, 18, 19, 20, 21],
+		"zanka_blade": [27],
 		"zanka_fireblade": [22, 23, 24, 25, 26]
 	}
 }
