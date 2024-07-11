@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "animated_java:item/model_null/model_null_t"
+	},
+	"elements": [
+		{
+			"from": [2, 2, 2],
+			"to": [14, 12, 10],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [8, 4.5, 9.5, 5.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [7, 9.5, 8, 10.75],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [8, 5.75, 9.5, 7],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [9.75, 7.75, 10.75, 9],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [1.5, 10.5, 0, 9.5],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3, 9.5, 1.5, 10.5],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

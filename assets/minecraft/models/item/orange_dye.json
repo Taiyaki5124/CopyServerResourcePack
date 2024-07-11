@@ -8,771 +8,169 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "item/animated_java_empty"
+			"model": "animated_java:empty"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "animated_java:item/sabotens/body"
+			"model": "animated_java:item/model_null/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "animated_java:item/sabotens/leg_left"
+			"model": "animated_java:item/model_null/neck"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "animated_java:item/sabotens/leg_right"
+			"model": "animated_java:item/model_null/lowerarm_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "animated_java:item/sabotens/arm_left"
+			"model": "animated_java:item/model_null/upperarm_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 6
 			},
-			"model": "animated_java:item/sabotens/arm_right"
+			"model": "animated_java:item/model_null/shoulder_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "animated_java:item/zanka_fireblade/group"
+			"model": "animated_java:item/model_null/lowerarm_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "animated_java:item/zanka_fireblade/group2"
+			"model": "animated_java:item/model_null/upperarm_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 9
 			},
-			"model": "animated_java:item/zanka_fireblade/group3"
+			"model": "animated_java:item/model_null/shoulder_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "animated_java:item/zanka_fireblade/bone3"
+			"model": "animated_java:item/model_null/bust"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 11
 			},
-			"model": "animated_java:item/zanka_fireblade/bone4"
+			"model": "animated_java:item/model_null/stomach"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 12
 			},
-			"model": "animated_java:item/zanka_blade.ver1/group"
+			"model": "animated_java:item/model_null/shin_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 13
 			},
-			"model": "animated_java:item/zanka_blade/group"
+			"model": "animated_java:item/model_null/thigh_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "animated_java:item/akakinoko/right_eye"
+			"model": "animated_java:item/model_null/shin_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "animated_java:item/akakinoko/left_eye"
+			"model": "animated_java:item/model_null/thigh_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "animated_java:item/akakinoko/head"
+			"model": "animated_java:item/model_null/waist"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "animated_java:item/akakinoko/right_leg"
+			"model": "animated_java:item/sabotens/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
 			},
-			"model": "animated_java:item/akakinoko/left_leg"
+			"model": "animated_java:item/sabotens/leg_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 19
 			},
-			"model": "animated_java:item/muscle_bullet/hair"
+			"model": "animated_java:item/sabotens/leg_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "animated_java:item/muscle_bullet/jaw"
+			"model": "animated_java:item/sabotens/arm_left"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 21
 			},
-			"model": "animated_java:item/muscle_bullet/lid_right"
+			"model": "animated_java:item/sabotens/arm_right"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "animated_java:item/muscle_bullet/lid_left"
+			"model": "animated_java:item/zanka_fireblade/group"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 23
 			},
-			"model": "animated_java:item/muscle_bullet/blackeye_right"
+			"model": "animated_java:item/zanka_fireblade/group2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "animated_java:item/muscle_bullet/eye_right"
+			"model": "animated_java:item/zanka_fireblade/group3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 25
 			},
-			"model": "animated_java:item/muscle_bullet/blackeye_left"
+			"model": "animated_java:item/zanka_fireblade/bone3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "animated_java:item/muscle_bullet/eye_left"
+			"model": "animated_java:item/zanka_fireblade/bone4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 27
 			},
-			"model": "animated_java:item/muscle_bullet/around_eyes"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 28
-			},
-			"model": "animated_java:item/muscle_bullet/heads"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 29
-			},
-			"model": "animated_java:item/muscle_bullet/bust"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 30
-			},
-			"model": "animated_java:item/muscle_bullet/stomach"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 31
-			},
-			"model": "animated_java:item/muscle_bullet/globe_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 32
-			},
-			"model": "animated_java:item/muscle_bullet/lowerarm_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 33
-			},
-			"model": "animated_java:item/muscle_bullet/upperarm_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 34
-			},
-			"model": "animated_java:item/muscle_bullet/shoulder_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 35
-			},
-			"model": "animated_java:item/muscle_bullet/globe_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 36
-			},
-			"model": "animated_java:item/muscle_bullet/lowerarm_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 37
-			},
-			"model": "animated_java:item/muscle_bullet/upperarm_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 38
-			},
-			"model": "animated_java:item/muscle_bullet/shoulder_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 39
-			},
-			"model": "animated_java:item/muscle_bullet/foot_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 40
-			},
-			"model": "animated_java:item/muscle_bullet/shin_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 41
-			},
-			"model": "animated_java:item/muscle_bullet/thigh_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 42
-			},
-			"model": "animated_java:item/muscle_bullet/foot_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 43
-			},
-			"model": "animated_java:item/muscle_bullet/shin_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 44
-			},
-			"model": "animated_java:item/muscle_bullet/thigh_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 45
-			},
-			"model": "animated_java:item/muscle_bullet/lower_bodies"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 46
-			},
-			"model": "animated_java:item/marvel_walkingdead/neck_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 47
-			},
-			"model": "animated_java:item/marvel_walkingdead/neck_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 48
-			},
-			"model": "animated_java:item/marvel_walkingdead/hair"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 49
-			},
-			"model": "animated_java:item/marvel_walkingdead/lid_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 50
-			},
-			"model": "animated_java:item/marvel_walkingdead/blackeye_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 51
-			},
-			"model": "animated_java:item/marvel_walkingdead/eye_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 52
-			},
-			"model": "animated_java:item/marvel_walkingdead/lid_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 53
-			},
-			"model": "animated_java:item/marvel_walkingdead/blackeye_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 54
-			},
-			"model": "animated_java:item/marvel_walkingdead/eye_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 55
-			},
-			"model": "animated_java:item/marvel_walkingdead/bone5"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 56
-			},
-			"model": "animated_java:item/marvel_walkingdead/jaw"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 57
-			},
-			"model": "animated_java:item/marvel_walkingdead/heads"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 58
-			},
-			"model": "animated_java:item/marvel_walkingdead/neck"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 59
-			},
-			"model": "animated_java:item/marvel_walkingdead/stomach"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 60
-			},
-			"model": "animated_java:item/marvel_walkingdead/globe_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 61
-			},
-			"model": "animated_java:item/marvel_walkingdead/lowerarm_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 62
-			},
-			"model": "animated_java:item/marvel_walkingdead/upperarm_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 63
-			},
-			"model": "animated_java:item/marvel_walkingdead/shoulder_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 64
-			},
-			"model": "animated_java:item/marvel_walkingdead/globe_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 65
-			},
-			"model": "animated_java:item/marvel_walkingdead/lowerarm_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 66
-			},
-			"model": "animated_java:item/marvel_walkingdead/upperarm_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 67
-			},
-			"model": "animated_java:item/marvel_walkingdead/shoulder_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 68
-			},
-			"model": "animated_java:item/marvel_walkingdead/upperbodies"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 69
-			},
-			"model": "animated_java:item/marvel_walkingdead/foot_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 70
-			},
-			"model": "animated_java:item/marvel_walkingdead/lowerleg_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 71
-			},
-			"model": "animated_java:item/marvel_walkingdead/upperleg_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 72
-			},
-			"model": "animated_java:item/marvel_walkingdead/foot_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 73
-			},
-			"model": "animated_java:item/marvel_walkingdead/lowerleg_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 74
-			},
-			"model": "animated_java:item/marvel_walkingdead/upperleg_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 75
-			},
-			"model": "animated_java:item/marvel_walkingdead/underbodies"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 76
-			},
-			"model": "animated_java:item/rampage_dead/neck_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 77
-			},
-			"model": "animated_java:item/rampage_dead/neck_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 78
-			},
-			"model": "animated_java:item/rampage_dead/hair"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 79
-			},
-			"model": "animated_java:item/rampage_dead/lid_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 80
-			},
-			"model": "animated_java:item/rampage_dead/blackeye_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 81
-			},
-			"model": "animated_java:item/rampage_dead/eye_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 82
-			},
-			"model": "animated_java:item/rampage_dead/lid_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 83
-			},
-			"model": "animated_java:item/rampage_dead/blackeye_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 84
-			},
-			"model": "animated_java:item/rampage_dead/eye_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 85
-			},
-			"model": "animated_java:item/rampage_dead/bone5"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 86
-			},
-			"model": "animated_java:item/rampage_dead/jaw"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 87
-			},
-			"model": "animated_java:item/rampage_dead/heads"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 88
-			},
-			"model": "animated_java:item/rampage_dead/neck"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 89
-			},
-			"model": "animated_java:item/rampage_dead/stomach"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90
-			},
-			"model": "animated_java:item/rampage_dead/globe_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 91
-			},
-			"model": "animated_java:item/rampage_dead/lowerarm_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 92
-			},
-			"model": "animated_java:item/rampage_dead/upperarm_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 93
-			},
-			"model": "animated_java:item/rampage_dead/shoulder_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 94
-			},
-			"model": "animated_java:item/rampage_dead/globe_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 95
-			},
-			"model": "animated_java:item/rampage_dead/lowerarm_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 96
-			},
-			"model": "animated_java:item/rampage_dead/upperarm_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 97
-			},
-			"model": "animated_java:item/rampage_dead/shoulder_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 98
-			},
-			"model": "animated_java:item/rampage_dead/upperbodies"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 99
-			},
-			"model": "animated_java:item/rampage_dead/foot_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 100
-			},
-			"model": "animated_java:item/rampage_dead/lowerleg_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 101
-			},
-			"model": "animated_java:item/rampage_dead/upperleg_right"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 102
-			},
-			"model": "animated_java:item/rampage_dead/foot_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 103
-			},
-			"model": "animated_java:item/rampage_dead/lowerleg_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 104
-			},
-			"model": "animated_java:item/rampage_dead/upperleg_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 105
-			},
-			"model": "animated_java:item/rampage_dead/underbodies"
+			"model": "animated_java:item/zanka_blade/group"
 		}
 	],
 	"animated_java": {
-		"rigs": {
-			"sabotens": {
-				"used_ids": [
-					2,
-					3,
-					4,
-					5,
-					6
-				]
-			},
-			"zanka_fireblade": {
-				"used_ids": [
-					7,
-					8,
-					9,
-					10,
-					11
-				]
-			},
-			"zanka_blade.ver1": {
-				"used_ids": [
-					12
-				]
-			},
-			"zanka_blade": {
-				"used_ids": [
-					13
-				]
-			},
-			"akakinoko": {
-				"used_ids": [
-					14,
-					15,
-					16,
-					17,
-					18
-				]
-			},
-			"muscle_bullet": {
-				"used_ids": [
-					19,
-					20,
-					21,
-					22,
-					23,
-					24,
-					25,
-					26,
-					27,
-					28,
-					29,
-					30,
-					31,
-					32,
-					33,
-					34,
-					35,
-					36,
-					37,
-					38,
-					39,
-					40,
-					41,
-					42,
-					43,
-					44,
-					45
-				]
-			},
-			"marvel_walkingdead": {
-				"used_ids": [
-					46,
-					47,
-					48,
-					49,
-					50,
-					51,
-					52,
-					53,
-					54,
-					55,
-					56,
-					57,
-					58,
-					59,
-					60,
-					61,
-					62,
-					63,
-					64,
-					65,
-					66,
-					67,
-					68,
-					69,
-					70,
-					71,
-					72,
-					73,
-					74,
-					75
-				]
-			},
-			"rampage_dead": {
-				"used_ids": [
-					76,
-					77,
-					78,
-					79,
-					80,
-					81,
-					82,
-					83,
-					84,
-					85,
-					86,
-					87,
-					88,
-					89,
-					90,
-					91,
-					92,
-					93,
-					94,
-					95,
-					96,
-					97,
-					98,
-					99,
-					100,
-					101,
-					102,
-					103,
-					104,
-					105
-				]
-			}
-		}
+		"model_null": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+		"sabotens": [17, 18, 19, 20, 21],
+		"zanka_blade": [27],
+		"zanka_fireblade": [22, 23, 24, 25, 26]
 	}
 }
