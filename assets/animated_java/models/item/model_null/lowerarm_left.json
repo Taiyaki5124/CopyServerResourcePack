@@ -4,12 +4,12 @@
 	},
 	"elements": [
 		{
-			"from": [1, -5, 4],
-			"to": [7, 11, 12],
+			"from": [6, -10, 6],
+			"to": [12, 6, 14],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [8, 8, 8]
+				"origin": [13, 3, 10]
 			},
 			"faces": {
 				"north": {
