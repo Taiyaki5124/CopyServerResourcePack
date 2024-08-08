@@ -6,20 +6,6 @@
     "overrides":[
       {"predicate": {"custom_model_data":512401}, "model": "tk_gun:item/ammo/light"},
       {"predicate": {"custom_model_data":512402}, "model": "tk_gun:item/ammo/medium"},
-      {"predicate": {"custom_model_data":512403}, "model": "tk_gun:item/ammo/heavy"},
-
-      {"predicate": {"custom_model_data":5124001},"model": "tk_gun:item/reload/revolver"},
-      {"predicate": {"custom_model_data":5124002},"model": "tk_gun:item/reload/assaultrifle"},
-      {"predicate": {"custom_model_data":5124003},"model": "tk_gun:item/reload/pistol_cc"},
-      {"predicate": {"custom_model_data":5124004},"model": "tk_gun:item/reload/smg"},
-      {"predicate": {"custom_model_data":5124005},"model": "tk_gun:item/reload/mac11"},
-      {"predicate": {"custom_model_data":5124006},"model": "tk_gun:item/reload/sniper"},
-      {"predicate": {"custom_model_data":5124007},"model": "tk_gun:item/reload/dog"},
-      {"predicate": {"custom_model_data":5124008},"model": "tk_gun:item/reload/lmg"},
-      {"predicate": {"custom_model_data":5124009},"model": "tk_gun:item/reload/takoyaki_launcher"},
-      {"predicate": {"custom_model_data":5124010},"model": "tk_gun:item/reload/pistol"},
-      {"predicate": {"custom_model_data":5124011},"model": "tk_gun:item/reload/dmr"},
-      {"predicate": {"custom_model_data":5124012},"model": "tk_gun:item/reload/wron_rifle"},
-      {"predicate": {"custom_model_data":5124013},"model": "tk_gun:item/reload/zun_railgun"}
+      {"predicate": {"custom_model_data":512403}, "model": "tk_gun:item/ammo/heavy"}
     ]
   }
