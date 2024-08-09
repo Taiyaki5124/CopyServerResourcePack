@@ -3,6 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "magicas:item/magics/magic_book/magic_book",
+		"1": "magicas:item/magics/flamma",
 		"particle": "magicas:item/magics/magic_book/magic_book"
 	},
 	"elements": [
@@ -74,11 +75,10 @@
 			"from": [-4, 3.75, 4.15],
 			"to": [6, 13.75, 4.15],
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [0.25, -0.5, -0.125]},
-			"color": 7,
 			"faces": {
 				"north": {"uv": [0, 0, 0, 0], "texture": "#missing"},
 				"east": {"uv": [0, 0, 0, 0], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"west": {"uv": [0, 0, 0, 0], "texture": "#missing"},
 				"up": {"uv": [0, 0, 0, 0], "texture": "#missing"},
 				"down": {"uv": [0, 0, 0, 0], "texture": "#missing"}
