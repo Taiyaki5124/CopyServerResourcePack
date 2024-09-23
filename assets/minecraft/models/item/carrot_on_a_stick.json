@@ -37,6 +37,8 @@
 
     {"predicate": {"custom_model_data":512503},"model": "magicas:item/muramasa/normal"},
     {"predicate": {"custom_model_data":512504},"model": "magicas:item/muramasa/blade"},
-    {"predicate": {"custom_model_data":512505},"model": "magicas:item/muramasa/wield"}
+    {"predicate": {"custom_model_data":512505},"model": "magicas:item/muramasa/wield"},
+
+    {"predicate": {"custom_model_data":512506},"model": "magicas:item/steam_blade"}
   ]
 }
