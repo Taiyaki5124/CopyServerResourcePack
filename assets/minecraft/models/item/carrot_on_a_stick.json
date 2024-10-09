@@ -41,6 +41,15 @@
     {"predicate": {"custom_model_data":512504},"model": "magicas:item/muramasa/blade"},
     {"predicate": {"custom_model_data":512505},"model": "magicas:item/muramasa/wield"},
 
-    {"predicate": {"custom_model_data":512506},"model": "magicas:item/steam_blade"}
+
+    {"predicate": {"custom_model_data":512600},"model": "magicas:item/steam_blade/steam_blade"},
+
+    {"predicate": {"custom_model_data":512601},"model": "magicas:item/steam_blade/slash1/1"},
+    {"predicate": {"custom_model_data":512602},"model": "magicas:item/steam_blade/slash1/2"},
+    {"predicate": {"custom_model_data":512603},"model": "magicas:item/steam_blade/slash1/3"},
+
+    {"predicate": {"custom_model_data":512606},"model": "magicas:item/steam_blade/slas2/1"},
+    {"predicate": {"custom_model_data":512607},"model": "magicas:item/steam_blade/slash2/2"},
+    {"predicate": {"custom_model_data":512608},"model": "magicas:item/steam_blade/slash2/3"}
   ]
 }
