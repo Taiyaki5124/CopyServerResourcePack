@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "zun_railgun",
-		"1": "reil_coa",
-		"particle": "zun_railgun"
+		"0": "tk_gun:item/zun_railgun/zun_railgun",
+		"1": "tk_gun:item/zun_railgun/reil_coa",
+		"particle": "tk_gun:item/zun_railgun"
 	},
 	"elements": [
 		{
