@@ -45,20 +45,23 @@
     {"predicate": {"custom_model_data":512600},"model": "magicas:item/steam_blade/steam_blade"},
 
     {"predicate": {"custom_model_data":512601},"model": "magicas:item/steam_blade/slash1/1"},
-    {"predicate": {"custom_model_data":512602},"model": "magicas:item/steam_blade/slash1/2"},
-    {"predicate": {"custom_model_data":512603},"model": "magicas:item/steam_blade/slash1/3"},
+    {"predicate": {"custom_model_data":512602},"model": "magicas:item/steam_blade/slash1/1"},
+    {"predicate": {"custom_model_data":512603},"model": "magicas:item/steam_blade/slash1/2"},
+    {"predicate": {"custom_model_data":512604},"model": "magicas:item/steam_blade/slash1/3"},
 
     {"predicate": {"custom_model_data":512606},"model": "magicas:item/steam_blade/slash2/1"},
-    {"predicate": {"custom_model_data":512607},"model": "magicas:item/steam_blade/slash2/2"},
-    {"predicate": {"custom_model_data":512608},"model": "magicas:item/steam_blade/slash2/3"},
+    {"predicate": {"custom_model_data":512607},"model": "magicas:item/steam_blade/slash2/1"},
+    {"predicate": {"custom_model_data":512608},"model": "magicas:item/steam_blade/slash2/2"},
+    {"predicate": {"custom_model_data":512609},"model": "magicas:item/steam_blade/slash2/3"},
 
-    {"predicate": {"custom_model_data":512611},"model": "magicas:item/steam_blade/slash1/1"},
-    {"predicate": {"custom_model_data":512612},"model": "magicas:item/steam_blade/slash1/2"},
-    {"predicate": {"custom_model_data":512613},"model": "magicas:item/steam_blade/slash1/3"},
+    {"predicate": {"custom_model_data":512611},"model": "magicas:item/steam_blade/slash3/1"},
+    {"predicate": {"custom_model_data":512612},"model": "magicas:item/steam_blade/slash3/1"},
+    {"predicate": {"custom_model_data":512613},"model": "magicas:item/steam_blade/slash3/2"},
+    {"predicate": {"custom_model_data":512614},"model": "magicas:item/steam_blade/slash3/3"},
 
     {"predicate": {"custom_model_data":512616},"model": "magicas:item/steam_blade/slash3/1"},
-    {"predicate": {"custom_model_data":512617},"model": "magicas:item/steam_blade/slash3/2"},
-    {"predicate": {"custom_model_data":512618},"model": "magicas:item/steam_blade/slash3/3"},
+    {"predicate": {"custom_model_data":512617},"model": "magicas:item/steam_blade/slash3/1"},
+    {"predicate": {"custom_model_data":512618},"model": "magicas:item/steam_blade/slash3/2"},
     {"predicate": {"custom_model_data":512619},"model": "magicas:item/steam_blade/slash3/3"},
     {"predicate": {"custom_model_data":512620},"model": "magicas:item/steam_blade/slash3/3"}
   ]
