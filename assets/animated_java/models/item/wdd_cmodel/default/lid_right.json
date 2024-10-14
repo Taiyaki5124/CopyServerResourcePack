@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "animated_java:item/wdd_cmodel/wdd_c_head_t"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [9, 8, 8],
+			"to": [12, 10, 9],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [12, 1, 13.5, 2],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [10.5, 12, 11, 13],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [1.5, 12, 3, 13],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [11, 12, 11.5, 13],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [9.5, 12.5, 8, 12],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [13.5, 8, 12, 8.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

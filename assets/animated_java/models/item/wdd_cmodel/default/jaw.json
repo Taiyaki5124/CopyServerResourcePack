@@ -1,0 +1,82 @@
+{
+	"textures": {
+		"5": "animated_java:item/wdd_cmodel/wdd_jaw_t"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6, 7, 3],
+			"to": [10, 9, 7],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [4, 4, 8, 6],
+					"texture": "#5"
+				},
+				"east": {
+					"uv": [4, 6, 8, 8],
+					"texture": "#5"
+				},
+				"south": {
+					"uv": [0, 8, 4, 10],
+					"texture": "#5"
+				},
+				"west": {
+					"uv": [8, 0, 12, 2],
+					"texture": "#5"
+				},
+				"up": {
+					"uv": [4, 4, 0, 0],
+					"texture": "#5"
+				},
+				"down": {
+					"uv": [4, 4, 0, 8],
+					"texture": "#5"
+				}
+			}
+		},
+		{
+			"from": [6, 8, 3.999],
+			"to": [10, 10, 3.999],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [4, 0, 8, 2],
+					"texture": "#5"
+				},
+				"east": {
+					"uv": [0, 0, 0, 2],
+					"texture": "#5"
+				},
+				"south": {
+					"uv": [4, 2, 8, 4],
+					"texture": "#5"
+				},
+				"west": {
+					"uv": [0, 0, 0, 2],
+					"texture": "#5"
+				},
+				"up": {
+					"uv": [4, 0, 0, 0],
+					"texture": "#5"
+				},
+				"down": {
+					"uv": [4, 0, 0, 0],
+					"texture": "#5"
+				}
+			}
+		}
+	]
+}
