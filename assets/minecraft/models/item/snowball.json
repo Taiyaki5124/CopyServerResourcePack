@@ -9,6 +9,12 @@
     {"predicate": {"custom_model_data": 220005},"model": "ps_items:item/granades/antimine"},
     {"predicate": {"custom_model_data": 220006},"model": "ps_items:item/granades/poison"},
     {"predicate": {"custom_model_data": 220007},"model": "ps_items:item/granades/pulse"},
+
+
+    {"predicate": {"custom_model_data":512401},"model": "minecraft:block/deepslate_tile_wall"},
+    {"predicate": {"custom_model_data":512402},"model": "minecraft:block/scaffolding"},
+
+    
     {"predicate": {"custom_model_data":5124001},"model": "tk_gun:item/misc/granade"}
   ]
 }
