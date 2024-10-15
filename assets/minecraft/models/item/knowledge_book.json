@@ -6,6 +6,9 @@
 
   "overrides": [
     {"predicate": {"custom_model_data":65536}, "model": "tk_br:item/battleballoon"},
+    
+    {"predicate": {"custom_model_data":512401},"model": "minecraft:block/deepslate_tile_wall_inventory"},
+    {"predicate": {"custom_model_data":512402},"model": "minecraft:block/scaffolding_unstable"},
 
     {"predicate": {"custom_model_data":5124001}, "model": "minecraft:block/end_portal_frame"}
   ]
