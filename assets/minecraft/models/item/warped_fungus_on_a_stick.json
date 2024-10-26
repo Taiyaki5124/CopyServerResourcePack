@@ -27,6 +27,6 @@
     {"predicate": {"custom_model_data":5124011},"model": "tk_gun:item/reload/dmr"},
     {"predicate": {"custom_model_data":5124012},"model": "tk_gun:item/reload/wron_rifle"},
     {"predicate": {"custom_model_data":5124013},"model": "tk_gun:item/reload/zun_railgun"},
-    {"predicate": {"custom_model_data":5124014},"model": "tk_gun:item/reload/rpg7"}
+    {"predicate": {"custom_model_data":5124014},"model": "tk_gun:item/rpg7"}
   ]
 }

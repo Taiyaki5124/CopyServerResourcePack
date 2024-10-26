@@ -72,7 +72,7 @@
         {"predicate": {"custom_model_data":5124011},"model": "tk_gun:item/dmr"},
         {"predicate": {"custom_model_data":5124012},"model": "tk_gun:item/wron_rifle"},
         {"predicate": {"custom_model_data":5124013},"model": "tk_gun:item/zun_railgun"},
-        {"predicate": {"custom_model_data":5124014},"model": "tk_gun:item/rpg"},
+        {"predicate": {"custom_model_data":5124014},"model": "tk_gun:item/rpg7"},
         
         {"predicate": {"custom_model_data":5125001},"model": "tk_gun:item/ads/revolver"},
         {"predicate": {"custom_model_data":5125002},"model": "tk_gun:item/ads/assaultrifle"},
@@ -87,7 +87,7 @@
         {"predicate": {"custom_model_data":5125011},"model": "tk_gun:item/ads/dmr"},
         {"predicate": {"custom_model_data":5125012},"model": "tk_gun:item/ads/wron_rifle"},
         {"predicate": {"custom_model_data":5125013},"model": "tk_gun:item/ads/zun_railgun"},
-        {"predicate": {"custom_model_data":5124014},"model": "tk_gun:item/ads/rpg7"},
+        {"predicate": {"custom_model_data":5125014},"model": "tk_gun:item/rpg7"},
 
         {"predicate": {"custom_model_data":5126001},"model": "tk_gun:item/recoil/revolver"},
         {"predicate": {"custom_model_data":5126007},"model": "tk_gun:item/recoil/dog"},
