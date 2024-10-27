@@ -87,10 +87,11 @@
         {"predicate": {"custom_model_data":5125011},"model": "tk_gun:item/ads/dmr"},
         {"predicate": {"custom_model_data":5125012},"model": "tk_gun:item/ads/wron_rifle"},
         {"predicate": {"custom_model_data":5125013},"model": "tk_gun:item/ads/zun_railgun"},
-        {"predicate": {"custom_model_data":5125014},"model": "tk_gun:item/rpg7"},
+        {"predicate": {"custom_model_data":5125014},"model": "tk_gun:item/ads/rpg7"},
 
         {"predicate": {"custom_model_data":5126001},"model": "tk_gun:item/recoil/revolver"},
         {"predicate": {"custom_model_data":5126007},"model": "tk_gun:item/recoil/dog"},
-        {"predicate": {"custom_model_data":5126009},"model": "tk_gun:item/recoil/takoyaki_launcher"}
+        {"predicate": {"custom_model_data":5126009},"model": "tk_gun:item/recoil/takoyaki_launcher"},
+        {"predicate": {"custom_model_data":5126014},"model": "tk_gun:item/recoil/rpg7"}
     ]
 }

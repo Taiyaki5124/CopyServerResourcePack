@@ -249,8 +249,8 @@
 			"translation": [0, 3.25, 2.75]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -7, 0],
-			"translation": [7.25, 4.5, 8.5]
+			"rotation": [0, -7, 12],
+			"translation": [4, 6.75, 6]
 		},
 		"ground": {
 			"rotation": [24, 0, 0],
