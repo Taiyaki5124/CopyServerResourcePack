@@ -67,7 +67,7 @@
         {"predicate": {"custom_model_data":5124006},"model": "tk_gun:item/sniper"},
         {"predicate": {"custom_model_data":5124007},"model": "tk_gun:item/dog"},
         {"predicate": {"custom_model_data":5124008},"model": "tk_gun:item/lmg"},
-        {"predicate": {"custom_model_data":5124009},"model": "tk_gun:item/takoyaki_launcher"},
+        {"predicate": {"custom_model_data":5124009},"model": "tk_gun:item/tako_launcher"},
         {"predicate": {"custom_model_data":5124010},"model": "tk_gun:item/pistol"},
         {"predicate": {"custom_model_data":5124011},"model": "tk_gun:item/dmr"},
         {"predicate": {"custom_model_data":5124012},"model": "tk_gun:item/wron_rifle"},
