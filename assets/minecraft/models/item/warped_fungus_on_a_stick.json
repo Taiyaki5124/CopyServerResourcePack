@@ -20,7 +20,7 @@
     {"predicate": {"custom_model_data":5124004},"model": "tk_gun:item/reload/smg"},
     {"predicate": {"custom_model_data":5124005},"model": "tk_gun:item/reload/mac11"},
     {"predicate": {"custom_model_data":5124006},"model": "tk_gun:item/reload/sniper"},
-    {"predicate": {"custom_model_data":5124007},"model": "tk_gun:item/reload/dog"},
+    {"predicate": {"custom_model_data":5124007},"model": "tk_gun:item/reload/caru_shotgun_reload"},
     {"predicate": {"custom_model_data":5124008},"model": "tk_gun:item/reload/lmg"},
     {"predicate": {"custom_model_data":5124009},"model": "tk_gun:item/reload/tako_launcher_reload"},
     {"predicate": {"custom_model_data":5124010},"model": "tk_gun:item/reload/pistol"},
