@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "tk_gun:item/tako_launcher_reload_t",
-		"particle": "tk_gun:item/tako_launcher_reload_t"
+		"0": "tk_gun:item/takoyaki_launcher/tako_launcher_reload_t",
+		"particle": "tk_gun:item/takoyaki_launcher/tako_launcher_reload_t"
 	},
 	"elements": [
 		{
@@ -464,7 +464,8 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 4.75, -6.25],
+			"rotation": [43, 71, 0],
+			"translation": [-6.75, 5.75, 4.25],
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"thirdperson_lefthand": {
@@ -472,7 +473,8 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"firstperson_righthand": {
-			"translation": [9.5, 14.75, -3]
+			"rotation": [0, 59, 21],
+			"translation": [-5.5, 15, -4.5]
 		},
 		"firstperson_lefthand": {
 			"translation": [9.5, 14.75, -3]
