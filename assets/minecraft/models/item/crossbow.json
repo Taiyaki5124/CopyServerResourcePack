@@ -65,7 +65,7 @@
         {"predicate": {"custom_model_data":5124004},"model": "tk_gun:item/smg"},
         {"predicate": {"custom_model_data":5124005},"model": "tk_gun:item/mac11"},
         {"predicate": {"custom_model_data":5124006},"model": "tk_gun:item/sniper"},
-        {"predicate": {"custom_model_data":5124007},"model": "tk_gun:item/dog"},
+        {"predicate": {"custom_model_data":5124007},"model": "tk_gun:item/caru_shotgun"},
         {"predicate": {"custom_model_data":5124008},"model": "tk_gun:item/lmg"},
         {"predicate": {"custom_model_data":5124009},"model": "tk_gun:item/tako_launcher"},
         {"predicate": {"custom_model_data":5124010},"model": "tk_gun:item/pistol"},
@@ -80,7 +80,7 @@
         {"predicate": {"custom_model_data":5125004},"model": "tk_gun:item/ads/smg"},
         {"predicate": {"custom_model_data":5125005},"model": "tk_gun:item/ads/mac11"},
         {"predicate": {"custom_model_data":5125006},"model": "tk_gun:item/ads/sniper"},
-        {"predicate": {"custom_model_data":5125007},"model": "tk_gun:item/ads/dog"},
+        {"predicate": {"custom_model_data":5125007},"model": "tk_gun:item/ads/caru_shotgun_ads"},
         {"predicate": {"custom_model_data":5125008},"model": "tk_gun:item/ads/lmg"},
         {"predicate": {"custom_model_data":5125009},"model": "tk_gun:item/ads/tako_launcher_ads"},
         {"predicate": {"custom_model_data":5125010},"model": "tk_gun:item/ads/pistol"},
@@ -90,7 +90,7 @@
         {"predicate": {"custom_model_data":5125014},"model": "tk_gun:item/ads/rpg7"},
 
         {"predicate": {"custom_model_data":5126001},"model": "tk_gun:item/recoil/revolver"},
-        {"predicate": {"custom_model_data":5126007},"model": "tk_gun:item/recoil/dog"},
+        {"predicate": {"custom_model_data":5126007},"model": "tk_gun:item/recoil/caru_shotgun_recoil"},
         {"predicate": {"custom_model_data":5126009},"model": "tk_gun:item/recoil/tako_launcher_recoil"},
         {"predicate": {"custom_model_data":5126014},"model": "tk_gun:item/recoil/rpg7"}
     ]
