@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "frintrock",
-		"particle": "frintrock"
+		"0": "zun_resopa:item/frintrock",
+		"particle": "zun_resopa:item/frintrock"
 	},
 	"elements": [
 		{
