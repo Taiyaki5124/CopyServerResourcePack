@@ -1,5 +1,6 @@
 {
     "death.attack.rpg" : "%1$sは%2$sに倒された",
     "death.attack.rpg.item" : "%1$sは%2$sの%3$sで倒された",
-    "death.attack.rpg.player" : "%1$sは%2$sと戦いながら倒れた"
+    "death.attack.rpg.player" : "%1$sは%2$sと戦いながら倒れた",
+    "death.attack.tk_gun.item" : ""
 }

@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"8": "animated_java:item/gashadokuro/gd_neck_texture"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.22581, 28.90323, 8],
+			"to": [8.77419, 32, 9.54839],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 16.51613, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 2, 4],
+					"texture": "#8"
+				},
+				"east": {
+					"uv": [2, 0, 4, 4],
+					"texture": "#8"
+				},
+				"south": {
+					"uv": [0, 4, 2, 8],
+					"texture": "#8"
+				},
+				"west": {
+					"uv": [4, 0, 6, 4],
+					"texture": "#8"
+				},
+				"up": {
+					"uv": [4, 6, 2, 4],
+					"texture": "#8"
+				},
+				"down": {
+					"uv": [6, 4, 4, 6],
+					"texture": "#8"
+				}
+			}
+		}
+	]
+}

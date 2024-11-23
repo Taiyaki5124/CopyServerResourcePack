@@ -165,9 +165,124 @@
 				"custom_model_data": 27
 			},
 			"model": "animated_java:item/zanka_blade/group"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "animated_java:item/gashadokuro/default/chest"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "animated_java:item/gashadokuro/default/hood"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "animated_java:item/gashadokuro/default/neck"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "animated_java:item/gashadokuro/default/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "animated_java:item/gashadokuro/default/jaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "animated_java:item/gashadokuro/default/cloak_a"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "animated_java:item/gashadokuro/default/cloak_b"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "animated_java:item/gashadokuro/default/upperarm_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "animated_java:item/gashadokuro/default/underarm_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "animated_java:item/gashadokuro/default/upperarm_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "animated_java:item/gashadokuro/default/underarm_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "animated_java:item/gashadokuro/default/blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "animated_java:item/gashadokuro/default/waist"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "animated_java:item/gashadokuro/default/leg_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "animated_java:item/gashadokuro/default/shin_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "animated_java:item/gashadokuro/default/leg_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "animated_java:item/gashadokuro/default/shin_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "animated_java:item/gashadokuro/default/groin"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "animated_java:item/gashadokuro/default/saya"
 		}
 	],
 	"animated_java": {
+		"gashadokuro": [28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
 		"model_null": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
 		"sabotens": [17, 18, 19, 20, 21],
 		"zanka_blade": [27],
