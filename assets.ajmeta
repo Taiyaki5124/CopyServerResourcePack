@@ -1,7 +1,7 @@
 {
 	"gashadokuro": {
 		"files": [
-			"assets/animated_java/models/empty.json",
+			"assets/animated_java/models/item/empty.json",
 			"assets/animated_java/textures/item/gashadokuro/gd_heads_texture.png",
 			"assets/animated_java/textures/item/gashadokuro/gd_chest_texture.png",
 			"assets/animated_java/textures/item/gashadokuro/gd_hood_texture.png",
