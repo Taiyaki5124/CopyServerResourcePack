@@ -5,7 +5,7 @@
     "index": 0,
     "on_true":{
       "type": "minecraft:model",
-      "model": "tk_gun:item/ads/tako_launcher"
+      "model": "tk_gun:item/ads/tako_launcher_ads"
     },
     "on_false":{
       "type": "minecraft:condition",
@@ -13,7 +13,7 @@
       "index": 1,
       "on_true":{
         "type": "minecraft:model",
-        "model": "tk_gun:item/reload/tako_launcher"
+        "model": "tk_gun:item/reload/tako_launcher_reload"
       },
       "on_false":{
         "type": "minecraft:condition",
@@ -21,7 +21,7 @@
         "index": 2,
         "on_true":{
           "type": "minecraft:model",
-          "model": "tk_gun:item/recoil/tako_launcher"
+          "model": "tk_gun:item/recoil/tako_launcher_recoil"
         },
         "on_false":{
           "type": "minecraft:model",
