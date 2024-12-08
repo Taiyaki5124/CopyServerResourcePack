@@ -250,7 +250,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -7, 12],
-			"translation": [4, 6.75, 6]
+			"translation": [4, 17.75, 6]
 		},
 		"ground": {
 			"rotation": [24, 0, 0],

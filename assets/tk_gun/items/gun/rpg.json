@@ -5,7 +5,7 @@
       "index": 0,
       "on_true":{
         "type": "minecraft:model",
-        "model": "tk_gun:item/ads/rpg"
+        "model": "tk_gun:item/ads/rpg7"
       },
       "on_false":{
         "type": "minecraft:condition",
@@ -13,11 +13,11 @@
         "index": 1,
         "on_true":{
           "type": "minecraft:model",
-          "model": "tk_gun:item/reload/rpg"
+          "model": "tk_gun:item/reload/rpg7"
         },
         "on_false":{
           "type": "minecraft:model",
-          "model": "tk_gun:item/rpg"
+          "model": "tk_gun:item/rpg7"
         }
       }
     }

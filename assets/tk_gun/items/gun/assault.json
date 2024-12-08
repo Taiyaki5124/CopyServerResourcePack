@@ -5,7 +5,7 @@
       "index": 0,
       "on_true":{
         "type": "minecraft:model",
-        "model": "tk_gun:item/ads/assault"
+        "model": "tk_gun:item/ads/assaultrifle"
       },
       "on_false":{
         "type": "minecraft:condition",
@@ -13,11 +13,11 @@
         "index": 1,
         "on_true":{
           "type": "minecraft:model",
-          "model": "tk_gun:item/reload/assault"
+          "model": "tk_gun:item/reload/assaultrifle"
         },
         "on_false":{
           "type": "minecraft:model",
-          "model": "tk_gun:item/assault"
+          "model": "tk_gun:item/assaultrifle"
         }
       }
     }
