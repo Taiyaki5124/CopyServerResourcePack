@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type" : "minecraft:condition",
+        "property": "using_item",
+        "on_false": {
+            "type" : "minecraft:model",
+            "model": "magicas:item/magics/loftsteina_regn"
+        },
+        "on_true": {
+            "type" : "minecraft:model",
+            "model": "magicas:item/magics/casting/loftsteina_regn"
+        }
+    }
+}
