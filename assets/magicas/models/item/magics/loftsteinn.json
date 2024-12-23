@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "magicas:item/magics/loftsteinn",
 		"4": "magicas:item/magics/magic_book/cyan",
