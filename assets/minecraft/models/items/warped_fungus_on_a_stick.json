@@ -14,6 +14,7 @@
     {"predicate": {"custom_model_data":2132005}, "model": "zun_resopa:item/color_scythe"},
     {"predicate": {"custom_model_data":2132006}, "model": "zun_resopa:item/poison_scissors"},
     {"predicate": {"custom_model_data":2132007}, "model": "zun_resopa:item/frintrock"},
+    {"predicate": {"custom_model_data":2132008}, "model": "zun_resopa:item/fist"},
 
     {"predicate": {"custom_model_data":5124001},"model": "tk_gun:item/reload/revolver"},
     {"predicate": {"custom_model_data":5124002},"model": "tk_gun:item/reload/assaultrifle"},
