@@ -1,6 +1,6 @@
 {
     "model": {
       "type": "minecraft:model",
-      "model": "zun_resopa/models/mana_wall.json"
+      "model": "zun_resopa/models/mana_wall"
     }
   }
