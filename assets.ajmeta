@@ -34,5 +34,35 @@
 			"assets/animated_java/models/item/gashadokuro/default/groin.json",
 			"assets/animated_java/models/item/gashadokuro/default/saya.json"
 		]
+	},
+	"tobuyatsu": {
+		"files": [
+			"assets/animated_java/models/item/empty.json",
+			"assets/animated_java/textures/item/tobuyatsu/t.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/tobuyatsu/default/body.json",
+			"assets/animated_java/models/item/tobuyatsu/default/bust.json",
+			"assets/animated_java/models/item/tobuyatsu/default/neck3.json",
+			"assets/animated_java/models/item/tobuyatsu/default/neck2.json",
+			"assets/animated_java/models/item/tobuyatsu/default/neck1.json",
+			"assets/animated_java/models/item/tobuyatsu/default/head.json",
+			"assets/animated_java/models/item/tobuyatsu/default/upperjaw.json",
+			"assets/animated_java/models/item/tobuyatsu/default/underjaw.json",
+			"assets/animated_java/models/item/tobuyatsu/default/wingroot_right.json",
+			"assets/animated_java/models/item/tobuyatsu/default/wing_right.json",
+			"assets/animated_java/models/item/tobuyatsu/default/wingroot_left.json",
+			"assets/animated_java/models/item/tobuyatsu/default/wing_left.json",
+			"assets/animated_java/models/item/tobuyatsu/default/tail.json",
+			"assets/animated_java/models/item/tobuyatsu/default/tail2.json",
+			"assets/animated_java/models/item/tobuyatsu/default/tail3.json",
+			"assets/animated_java/models/item/tobuyatsu/default/tail4.json",
+			"assets/animated_java/models/item/tobuyatsu/default/tail5.json",
+			"assets/animated_java/models/item/tobuyatsu/default/legroot_right.json",
+			"assets/animated_java/models/item/tobuyatsu/default/leg_right.json",
+			"assets/animated_java/models/item/tobuyatsu/default/foot_right.json",
+			"assets/animated_java/models/item/tobuyatsu/default/legroot_left.json",
+			"assets/animated_java/models/item/tobuyatsu/default/leg_left.json",
+			"assets/animated_java/models/item/tobuyatsu/default/foot_left.json"
+		]
 	}
 }
