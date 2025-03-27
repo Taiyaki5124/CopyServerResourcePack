@@ -1,6 +1,24 @@
-{
+
+  {
     "model": {
-      "type": "minecraft:model",
-      "model": "zun_resopa:item/claymore"
+      "type": "minecraft:select",
+      "property": "minecraft:display_context",
+      "cases": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "zun_resopa:item/claymore2d"
+          },
+          "when": [
+            "gui",
+            "ground",
+            "fixed"
+          ]
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "zun_resopa:item/claymore2d"
+      }
     }
   }
