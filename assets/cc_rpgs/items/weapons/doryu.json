@@ -1,6 +1,22 @@
 {
-    "model": {
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cc_rpgs:item/weapons/doryu/doryu"
+        },
+        "when": [
+          "gui",
+          "ground"
+        ]
+      }
+    ],
+    "fallback": {
       "type": "minecraft:model",
-      "model": "cc_rpgs:item/weapons/doryu"
+      "model": "cc_rpgs:item/weapons/doryu/doryu_3d"
     }
   }
+}
