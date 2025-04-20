@@ -1,5 +1,5 @@
 
-  {
+{
     "model": {
       "type": "minecraft:select",
       "property": "minecraft:display_context",
@@ -7,7 +7,7 @@
         {
           "model": {
             "type": "minecraft:model",
-            "model": "zun_resopa:item/claymore2d"
+            "model": "zun_resopa:item/fork_spear2d"
           },
           "when": [
             "gui",
@@ -17,7 +17,7 @@
       ],
       "fallback": {
         "type": "minecraft:model",
-        "model": "zun_resopa:item/claymore3d"
+        "model": "zun_resopa:item/fork_spear3d"
       }
     }
   }
