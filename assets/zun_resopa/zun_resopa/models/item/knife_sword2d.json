@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "zun_resopa:item/knife_sword2d"
+    }
+  }

@@ -1,0 +1,22 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "zun_resopa:item/juice_bomb2d"
+        },
+        "when": [
+          "gui",
+          "fixed"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "zun_resopa:item/juice_bomb3d"
+    }
+  }
+}
