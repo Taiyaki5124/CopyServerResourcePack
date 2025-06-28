@@ -20,5 +20,6 @@
           "model": "tk_gun:item/zun_railgun"
         }
       }
-    }
+    },
+  "hand_animation_on_swap": false
   }

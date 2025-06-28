@@ -20,5 +20,6 @@
           "model": "tk_gun:item/pistol"
         }
       }
-    }
+    },
+  "hand_animation_on_swap": false
   }

@@ -20,5 +20,6 @@
           "model": "tk_gun:item/sniper"
         }
       }
-    }
+    },
+  "hand_animation_on_swap": false
   }

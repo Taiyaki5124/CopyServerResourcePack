@@ -20,5 +20,6 @@
           "model": "tk_gun:item/dmr"
         }
       }
-    }
+    },
+  "hand_animation_on_swap": false
   }

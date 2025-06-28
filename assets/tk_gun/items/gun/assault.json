@@ -20,5 +20,6 @@
           "model": "tk_gun:item/assaultrifle"
         }
       }
-    }
+    },
+  "hand_animation_on_swap": false
   }
