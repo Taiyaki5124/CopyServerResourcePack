@@ -19,6 +19,29 @@
 				"assets/animated_java/textures/blueprint/akakinoko/akakinoko_t.png"
 			]
 		},
+		"ctrl__c": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/ctrl__c/arm_left.json",
+				"assets/animated_java/items/blueprint/ctrl__c/arm_right.json",
+				"assets/animated_java/items/blueprint/ctrl__c/body.json",
+				"assets/animated_java/items/blueprint/ctrl__c/head.json",
+				"assets/animated_java/items/blueprint/ctrl__c/leg_left.json",
+				"assets/animated_java/items/blueprint/ctrl__c/leg_right.json",
+				"assets/animated_java/items/empty.json",
+				"assets/animated_java/models/blueprint/ctrl__c/arm_left.json",
+				"assets/animated_java/models/blueprint/ctrl__c/arm_right.json",
+				"assets/animated_java/models/blueprint/ctrl__c/body.json",
+				"assets/animated_java/models/blueprint/ctrl__c/head.json",
+				"assets/animated_java/models/blueprint/ctrl__c/leg_left.json",
+				"assets/animated_java/models/blueprint/ctrl__c/leg_right.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/ctrl__c/arms_t.png",
+				"assets/animated_java/textures/blueprint/ctrl__c/body_t.png",
+				"assets/animated_java/textures/blueprint/ctrl__c/head_t.png",
+				"assets/animated_java/textures/blueprint/ctrl__c/legs_t.png"
+			]
+		},
 		"gashadokuro": {
 			"versionedFiles": [
 				"assets/animated_java/models/item/empty.json",
@@ -83,6 +106,53 @@
 				"assets/animated_java/models/item/tobuyatsu/default/legroot_left.json",
 				"assets/animated_java/models/item/tobuyatsu/default/leg_left.json",
 				"assets/animated_java/models/item/tobuyatsu/default/foot_left.json"
+			]
+		},
+		"zombie": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/zombie/arm_cover_right.json",
+				"assets/animated_java/items/blueprint/zombie/chest_left.json",
+				"assets/animated_java/items/blueprint/zombie/chest_right.json",
+				"assets/animated_java/items/blueprint/zombie/chests.json",
+				"assets/animated_java/items/blueprint/zombie/head.json",
+				"assets/animated_java/items/blueprint/zombie/jaw.json",
+				"assets/animated_java/items/blueprint/zombie/leg_left.json",
+				"assets/animated_java/items/blueprint/zombie/leg_right.json",
+				"assets/animated_java/items/blueprint/zombie/lid_left.json",
+				"assets/animated_java/items/blueprint/zombie/lid_right.json",
+				"assets/animated_java/items/blueprint/zombie/lower_arm_left.json",
+				"assets/animated_java/items/blueprint/zombie/lower_arm_right.json",
+				"assets/animated_java/items/blueprint/zombie/stomach.json",
+				"assets/animated_java/items/blueprint/zombie/upper_arm_left.json",
+				"assets/animated_java/items/blueprint/zombie/upper_arm_right.json",
+				"assets/animated_java/items/blueprint/zombie/waist.json",
+				"assets/animated_java/items/blueprint/zombie/waistcloth_left.json",
+				"assets/animated_java/items/blueprint/zombie/waistcloth_right.json",
+				"assets/animated_java/items/empty.json",
+				"assets/animated_java/models/blueprint/zombie/arm_cover_right.json",
+				"assets/animated_java/models/blueprint/zombie/chest_left.json",
+				"assets/animated_java/models/blueprint/zombie/chest_right.json",
+				"assets/animated_java/models/blueprint/zombie/chests.json",
+				"assets/animated_java/models/blueprint/zombie/head.json",
+				"assets/animated_java/models/blueprint/zombie/jaw.json",
+				"assets/animated_java/models/blueprint/zombie/leg_left.json",
+				"assets/animated_java/models/blueprint/zombie/leg_right.json",
+				"assets/animated_java/models/blueprint/zombie/lid_left.json",
+				"assets/animated_java/models/blueprint/zombie/lid_right.json",
+				"assets/animated_java/models/blueprint/zombie/lower_arm_left.json",
+				"assets/animated_java/models/blueprint/zombie/lower_arm_right.json",
+				"assets/animated_java/models/blueprint/zombie/stomach.json",
+				"assets/animated_java/models/blueprint/zombie/upper_arm_left.json",
+				"assets/animated_java/models/blueprint/zombie/upper_arm_right.json",
+				"assets/animated_java/models/blueprint/zombie/waist.json",
+				"assets/animated_java/models/blueprint/zombie/waistcloth_left.json",
+				"assets/animated_java/models/blueprint/zombie/waistcloth_right.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/zombie/z_chests_t.png",
+				"assets/animated_java/textures/blueprint/zombie/z_head_t.png",
+				"assets/animated_java/textures/blueprint/zombie/z_stomach_t.png",
+				"assets/animated_java/textures/blueprint/zombie/z_waist_t.png"
 			]
 		}
 	}

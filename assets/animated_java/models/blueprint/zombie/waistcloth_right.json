@@ -1,0 +1,83 @@
+{
+	"textures": {
+		"4": "animated_java:blueprint/zombie/z_waist_t",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, 4, 6],
+			"to": [12, 12, 24],
+			"rotation": {
+				"angle": 22.5,
+				"axis": "z",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [6.75, 9, 7.25, 10],
+					"texture": "#4"
+				},
+				"east": {
+					"uv": [0, 5, 2.25, 6],
+					"texture": "#4"
+				},
+				"south": {
+					"uv": [9, 7.25, 9.5, 8.25],
+					"texture": "#4"
+				},
+				"west": {
+					"uv": [5, 0, 7.25, 1],
+					"texture": "#4"
+				},
+				"up": {
+					"uv": [4.75, 11, 4.25, 8.75],
+					"texture": "#4"
+				},
+				"down": {
+					"uv": [5.25, 8.75, 4.75, 11],
+					"texture": "#4"
+				}
+			}
+		},
+		{
+			"from": [8, 2, 10],
+			"to": [12, 4, 20],
+			"rotation": {
+				"angle": 22.5,
+				"axis": "z",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [8.5, 9.25, 9, 9.5],
+					"texture": "#4"
+				},
+				"east": {
+					"uv": [9.25, 1.5, 10.5, 1.75],
+					"texture": "#4"
+				},
+				"south": {
+					"uv": [9, 9.25, 9.5, 9.5],
+					"texture": "#4"
+				},
+				"west": {
+					"uv": [9.25, 1.75, 10.5, 2],
+					"texture": "#4"
+				},
+				"up": {
+					"uv": [6.25, 10.25, 5.75, 9],
+					"texture": "#4"
+				},
+				"down": {
+					"uv": [6.75, 9, 6.25, 10.25],
+					"texture": "#4"
+				}
+			}
+		}
+	]
+}

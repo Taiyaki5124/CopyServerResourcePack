@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"1": "animated_java:blueprint/zombie/z_head_t",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.999, 14, 3],
+			"to": [11, 16.001, 5],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 10, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [11.5, 5, 13, 6],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [12, 9, 13, 10],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [11.5, 6, 13, 7],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [12, 10, 13, 11],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [8.5, 12.5, 7, 11.5],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [10, 11.5, 8.5, 12.5],
+					"texture": "#1"
+				}
+			}
+		}
+	]
+}

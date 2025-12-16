@@ -1,0 +1,22 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cc_rpgs:item/weapons/butcher_knife/butcher_knife"
+        },
+        "when": [
+          "gui",
+          "ground"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "cc_rpgs:item/weapons/butcher_knife/butcher_knife_3d"
+    }
+  }
+}
