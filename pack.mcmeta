@@ -1,6 +1,7 @@
 {
 	"pack": {
-		"pack_format": 69,
-		"description": "コピー機のサーバー用リソパ"
+		"description": "コピー機のサーバー用リソパ",
+		"min_format": 65,
+		"max_format": 69
 	}
 }
