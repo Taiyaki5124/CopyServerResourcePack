@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/garda/garda_t",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-4, 6, -6],
+			"to": [20, 26, 10],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-5.33333, 6.33333, -2.66667]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 3, 2.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [5.5, 4, 7.5, 6.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 2.5, 3, 5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [6, 0, 8, 2.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [6, 2, 3, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6, 2, 3, 4],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
