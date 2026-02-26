@@ -42,6 +42,34 @@
 				"assets/animated_java/textures/blueprint/ctrl__c/legs_t.png"
 			]
 		},
+		"garda": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/garda/arm_left.json",
+				"assets/animated_java/items/blueprint/garda/arm_right.json",
+				"assets/animated_java/items/blueprint/garda/chest.json",
+				"assets/animated_java/items/blueprint/garda/head.json",
+				"assets/animated_java/items/blueprint/garda/jaw.json",
+				"assets/animated_java/items/blueprint/garda/leg_left.json",
+				"assets/animated_java/items/blueprint/garda/leg_right.json",
+				"assets/animated_java/items/blueprint/garda/neck.json",
+				"assets/animated_java/items/blueprint/garda/stomach.json",
+				"assets/animated_java/items/blueprint/garda/tail_lower.json",
+				"assets/animated_java/items/blueprint/garda/tail_upper.json",
+				"assets/animated_java/models/blueprint/garda/arm_left.json",
+				"assets/animated_java/models/blueprint/garda/arm_right.json",
+				"assets/animated_java/models/blueprint/garda/chest.json",
+				"assets/animated_java/models/blueprint/garda/head.json",
+				"assets/animated_java/models/blueprint/garda/jaw.json",
+				"assets/animated_java/models/blueprint/garda/leg_left.json",
+				"assets/animated_java/models/blueprint/garda/leg_right.json",
+				"assets/animated_java/models/blueprint/garda/neck.json",
+				"assets/animated_java/models/blueprint/garda/stomach.json",
+				"assets/animated_java/models/blueprint/garda/tail_lower.json",
+				"assets/animated_java/models/blueprint/garda/tail_upper.json",
+				"assets/animated_java/textures/blueprint/garda/garda_t.png"
+			]
+		},
 		"gashadokuro": {
 			"versionedFiles": [
 				"assets/animated_java/models/item/empty.json",
